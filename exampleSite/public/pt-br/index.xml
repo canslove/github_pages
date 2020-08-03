@@ -26,7 +26,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://canslove.github.io/pt-br/about/</guid>
-      <description>TBD!</description>
+      <description>My name is Donghyun Kang, and my preferred nickname is Daniel.
+I have a Ph.D. degree in engineering and specialized in digital signal processing for random processes, and led multiple R&amp;amp;D projects for more than 10 years with an end to end process - from strategic planning to product test.
+I have strong points not only on an EDA for extracting statistics of data but also on the application of ML algorithms.</description>
     </item>
     
     <item>
@@ -35,7 +37,14 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://canslove.github.io/pt-br/contact/</guid>
-      <description>Follow me, @danieldkang7.</description>
+      <description>Follow me, @danieldkang7
+Or
+Refer to belows:
+ [Github] (https://github.com/canslove/)
+  [Twitter] (https://twitter.com/danieldkang7/)
+  [LinkedIn] (https://www.linkedin.com/in/daniel-d-kang/)
+  [Blog] (https://nycdatascience.com/blog/author/d_kang/)
+ </description>
     </item>
     
     <item>
@@ -44,8 +53,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://canslove.github.io/pt-br/projects/</guid>
-      <description>Nothing to see here&amp;hellip; Move along!
-Voyage to the intelligent music streaming service: Ep 1. The analysis of Top ranked Songs and Artists</description>
+      <description>Note:
+ Company projects cannot be shown in detail, breif summary is provided. Personal projects will be described more in detail.  Company Projects  May, 2019 - Aug, 2020
+Prudential Financial:  Developing Machine learning models for business use cases based on time series analysis, mortality analysis, and customer churn analysis (Python - Scikit Learn, TensorFlow, Keras)  Policy persistency prediction(Python ML libraries, Tensorflow/Keras) Survival analysis(pySurvival-Kaplan-Meier,Cox) Rapid underwriting classification(Python ML libraries, Tensorflow/Keras) Cohort behavior analysis(Python ML libraries, Tensorflow/Keras) Product purchase pattern analysis(Python ML libraries, Tensorflow/Keras)   Research projects: solutions to address model bias, and model drift in production Providing Dashboards on Analytical results and insights (using MS Power BI) Cooperating with DevOps teams to deploy models Researching on concerns and effectiveness of the MDLC(ML model development lifecycle)   June, 2018 - April, 2019</description>
     </item>
     
   </channel>
